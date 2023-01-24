@@ -1,7 +1,7 @@
 package student1;
 
 /*
-modified jan 24. change...
+modified jan 24.
 */
 
 
